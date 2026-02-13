@@ -5,23 +5,7 @@ The app consists of only two screens:
 - Home Screen
 - Recipe Details & Cooking Method Screen
 
----
 
-## 📱 Screenshots
-
-### 🏠 Home Screen
-Displays a list of available recipes.
-
-![Home Screen](screenshots/home.png)
-
----
-
-### 📖 Recipe Details Screen
-Shows recipe details, ingredients, and cooking steps.
-
-![Recipe Details Screen](screenshots/details.png)
-
----
 
 ## ✨ Features
 - View a list of food recipes
