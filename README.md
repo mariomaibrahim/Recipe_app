@@ -1,16 +1,50 @@
-# recipe_app
+# 🍽️ Food Recipes App
 
-A new Flutter project.
+A simple and clean food recipes application.
+The app consists of only two screens:
+- Home Screen
+- Recipe Details & Cooking Method Screen
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### 🏠 Home Screen
+Displays a list of available recipes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Home Screen](screenshots/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### 📖 Recipe Details Screen
+Shows recipe details, ingredients, and cooking steps.
+
+![Recipe Details Screen](screenshots/details.png)
+
+---
+
+## ✨ Features
+- View a list of food recipes
+- Navigate to recipe details
+- Display:
+  - Recipe name
+  - Ingredients
+  - Step-by-step cooking instructions
+- Simple and user-friendly UI
+
+---
+
+## 🧭 App Structure
+- **Home Screen**
+  - Displays all recipes
+- **Details Screen**
+  - Recipe description
+  - Ingredients list
+  - Cooking method
+
+---
+
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+
